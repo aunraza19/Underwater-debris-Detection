@@ -1,0 +1,14 @@
+ultralytics>=8.2.0
+torch>=2.0.0
+torchvision>=0.15.0
+onnxruntime>=1.15.0
+gradio>=4.29.0
+opencv-python
+Pillow
+numpy
+pandas
+tqdm
+pyyaml
+matplotlib
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.9
