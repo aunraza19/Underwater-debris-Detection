@@ -6,6 +6,7 @@
 
 An interactive web application built with **Gradio** and **YOLOv8** for the detection and analysis of underwater trash and marine life. This tool can process both images and videos to identify debris, track unique items, and provide comprehensive data visualizations.
 
+Check here: https://huggingface.co/spaces/aun09/Underwater-Trash-Detection
 ## Overview
 This project provides a user-friendly interface and scripts for detecting, segmenting, and analyzing underwater debris (trash) in images and videos using deep learning models (YOLOv8, ONNX/PyTorch). It supports detailed analytics, severity scoring, and category breakdowns for detected trash.
 
